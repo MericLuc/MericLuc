@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, there ! 👋
 
-<!--
-**MericLuc/MericLuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning
+  - The latest C++17 features
+  - The GoF Design patterns and their C++ implementations
+  - Regular expressions using modern C++
+  - Modern C++ concurrency (C++17/20)
+  - The Rust language
+- 📫 How to reach me :
+  - Send me an email at _luc-henri.meric@up-technologies.fr_
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MericLuc&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
