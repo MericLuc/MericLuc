@@ -1,11 +1,11 @@
 ### Hello, there ! 👋
 
 - 🌱 I’m currently learning
-  - [The latest **C++17 features**](Cpp17-Features-tests)
-  - [The **GoF Design patterns** and their C++ implementations](Design-patterns)
-  - [**Regular expressions** using modern C++](Modern-cpp-regular-expressions)
-  - [**Modern C++ concurrency** (C++17/20)](Modern-cpp-concurrency)
-  - [The Rust language](Learning-Rust)
+  - [The latest **C++17 features**](https://github.com/MericLuc/Cpp17-Features-tests)
+  - [The **GoF Design patterns** and their C++ implementations](https://github.com/MericLuc/Design-patterns)
+  - [**Regular expressions** using modern C++](https://github.com/MericLuc/Modern-cpp-regular-expressions)
+  - [**Modern C++ concurrency** (C++17/20)](https://github.com/MericLuc/Modern-cpp-concurrency)
+  - [The Rust language](https://github.com/MericLuc/Learning-Rust)
 - 📫 How to reach me :
   - Send me an email at _luc-henri.meric@up-technologies.fr_
 
