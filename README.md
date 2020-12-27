@@ -6,6 +6,7 @@
   - [**Regular expressions** using modern C++](https://github.com/MericLuc/Modern-cpp-regular-expressions)
   - [**Modern C++ concurrency** (C++17/20)](https://github.com/MericLuc/Modern-cpp-concurrency)
   - [The Rust language](https://github.com/MericLuc/Learning-Rust)
+  - **Latest CMake features** for cross-platform C++ projects building
 - 📫 How to reach me :
   - Send me an email at _luc-henri.meric@up-technologies.fr_
 
