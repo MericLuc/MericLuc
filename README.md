@@ -1,8 +1,8 @@
 ### Hello, there ! 👋
 
 - 🌱 I’m currently learning
-  - [The latest **C++20 features](https://github.com/MericLuc/Cpp20-Features-tests)
-  - [The **C++17 features](https://github.com/MericLuc/Cpp17-Features-tests)
+  - [The latest **C++20 features**](https://github.com/MericLuc/Cpp20-Features-tests)
+  - [The **C++17 features**](https://github.com/MericLuc/Cpp17-Features-tests)
   - [The **GoF Design patterns** and their C++ implementations](https://github.com/MericLuc/Design-patterns)
   - [**Regular expressions** using modern C++](https://github.com/MericLuc/Cpp17-Features-tests/tree/master/std-regex)
   - [**Modern C++ concurrency** (C++17/20)](https://github.com/MericLuc/Modern-cpp-concurrency)
