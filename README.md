@@ -9,6 +9,8 @@
   - [The Rust language](https://github.com/MericLuc/Learning-Rust)
   - **Latest CMake features** for cross-platform C++ projects building
   - [**Event loops** and event handling paradigms](https://github.com/MericLuc/miniloop)
+  - [**Computer architecture**](https://github.com/MericLuc/nand2tetris)
+  - **Operating systems**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MericLuc&show_icons=true&layout=compact&theme=vue&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
