@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning
   - The **C++23 features**
-  - [**Modern C++ concurrency** (C++17/20)](https://github.com/MericLuc/Modern-cpp-concurrency)
   - [The Rust language](https://github.com/MericLuc/Learning-Rust)
   - [**Event loops** and event handling paradigms](https://github.com/MericLuc/miniloop)
   - [**Computer architecture**](https://github.com/MericLuc/nand2tetris)
